@@ -24,6 +24,7 @@ For the second route `users`:
 - `usernames = [u.username for u in users]` creates a list of usernames from the list of sorted users.
 - `render_template('users.html', title='Users', users=usernames)` passes the variable `usernames` to be used in the `users.html` using some jinja templating under the name `users`.
 
+<br />
 
 ### Exercise 1 
 In `users.html`:
@@ -52,6 +53,7 @@ flask db upgrade
 
 In your web app, you should see all the users you have created sorted according to their usernames.
 
+<br />
 
 ### Exercise 2
 
