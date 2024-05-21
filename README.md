@@ -4,8 +4,7 @@
 #### - Use Transcrypt Python library to create front-end web script with Python
 #### - Run a localhost web server
 
-
-
+<br>
 
 ## Mini Project 2
 
